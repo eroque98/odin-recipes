@@ -1,3 +1,3 @@
-odin-recipes Project
+#odin-recipes
 
-This is my firt Odin project utilizing basic html skills. 
+This is my first Odin project utilizing basic html skills. 
